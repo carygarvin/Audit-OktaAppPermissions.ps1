@@ -1,5 +1,6 @@
 # PowerShell  
 PowerShell scripts  
+  
 Author       : Cary GARVIN  
 Contact      : cary(at)garvin.tech  
 LinkedIn     : https://www.linkedin.com/in/cary-garvin-99909582  
@@ -12,7 +13,7 @@ Release date : 07/01/2019 (CET)
 History      : The present script has been developped as an auditing tool to gather Okta App Assignments and Revocations made by a particular Organization in the Okta authentication Cloud platform.  
 Purpose      : The present script can be used for auditing Okta App Assignments and Revocations for an organization using Okta authentication services. The computer running this present script requires Microsoft Excel to be installed as Excel is used to build the report using CDO.  
 
-#Script usage
+# Script usage
 The present PowerShell Script cannot be run with a locked computer or System account (as a Scheduled Task for instance) since CDO operations using Excel perform Copy/Paste operations which take place interactively within the context of a logged on user.  
 This is for performnce issues since pasting entire Worksheets in one shot is way faster than filing cells one by one using CDO.  
 Therefore ensure the computer running this script remains unlocked throughout the entire Script's operation.  
