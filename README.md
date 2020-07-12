@@ -1,4 +1,4 @@
-# PowerShell  
+# PowerShell 'Audit-OktaAppPermissions.ps1'  
 PowerShell scripts  
   
 Author       : Cary GARVIN  
