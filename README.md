@@ -10,7 +10,9 @@ GitHub       : https://github.com/carygarvin/
 Script Name  : Audit-OktaAppPermissions.ps1  
 Version      : 1.0  
 Release date : 07/01/2019 (CET)  
+
 History      : The present script has been developped as an auditing tool to gather Okta App Assignments and Revocations made by a particular Organization in the Okta authentication Cloud platform.  
+
 Purpose      : The present script can be used for auditing Okta App Assignments and Revocations for an organization using Okta authentication services. The computer running this present script requires Microsoft Excel to be installed as Excel is used to build the report using CDO.  
 
 # Script usage
