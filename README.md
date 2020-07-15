@@ -3,7 +3,7 @@ PowerShell Script for auditing Okta App Assignments and Revocations.
   
 Author       : Cary GARVIN  
 Contact      : cary(at)garvin.tech  
-LinkedIn     : https://www.linkedin.com/in/cary-garvin-99909582  
+LinkedIn     : https://www.linkedin.com/in/cary-garvin  
 GitHub       : https://github.com/carygarvin/  
 
 
