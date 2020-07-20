@@ -1,4 +1,4 @@
-# PowerShell 'Audit-OktaAppPermissions.ps1'  
+# Audit-OktaAppPermissions.ps1  
 PowerShell Script for auditing Okta App Assignments and Revocations.
   
 Author       : Cary GARVIN  
