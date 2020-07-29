@@ -7,7 +7,7 @@ LinkedIn     : https://www.linkedin.com/in/cary-garvin
 GitHub       : https://github.com/carygarvin/  
 
 
-Script Name  : Audit-OktaAppPermissions.ps1  
+Script Name  : [Audit-OktaAppPermissions.ps1](https://github.com/carygarvin/Audit-OktaAppPermissions.ps1)  
 Version      : 1.0  
 Release date : 07/01/2019 (CET)  
 
