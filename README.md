@@ -19,6 +19,6 @@ Purpose      : The present script can be used for auditing Okta App Assignments 
 The present PowerShell Script cannot be run with a locked computer or System account (as a Scheduled Task for instance) since CDO operations using Excel perform Copy/Paste operations which take place interactively within the context of a logged user. This is for performance considerations since pasting entire Worksheets in one shot is way faster than filling cells one by one using CDO, thus ensuring the computer running this script remains unlocked throughout the entire Script's operation.  
 
 # Script configuration
-There are 2 configurable variables (see lines 29 and 30 in the actual script) which need to be set by the IT Administrator prior to using the present Script:  
+There are 2 configurable variables (see lines 29 and 30 in the actual script) which need to be set by your IT Administrator prior to using the present Script:  
 * Variable **$OktaOrgName** which is the name, in the Okta Portal URL, corresponding to your Organization.  
 * Variable **$OktaAPIToken** which is the temporary token Okta issued for you upon request. This token can be issued and taken from Admin>Security>API>Token once you are logged in the Okta Admin Portal.  
