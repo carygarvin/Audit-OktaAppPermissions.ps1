@@ -20,5 +20,5 @@ The present PowerShell Script cannot be run with a locked computer or System acc
 
 # Script configuration
 There are 2 configurable variables (see lines 29 and 30 in the actual script) which need to be set by the IT Administrator prior to using the present Script:  
-* Variable **$OktaOrgName** which is the name, in the Okta Portal URL, corresponding to your organization.  
+* Variable **$OktaOrgName** which is the name, in the Okta Portal URL, corresponding to your Organization.  
 * Variable **$OktaAPIToken** which is the temporary token Okta issued for you upon request. This token can be issued and taken from Admin>Security>API>Token once you are logged in the Okta Admin Portal.  
